@@ -1,0 +1,6 @@
+﻿row,patient_id,message
+3,p002,Negative age
+4,p003,Missing Age
+6,p002,Duplicate ID
+7,,Missing ID
+8,p005,Age must be a number 
